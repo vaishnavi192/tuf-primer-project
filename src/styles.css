@@ -95,9 +95,13 @@
   --sidebar-accent-foreground: oklch(0.95 0.005 260);
   --sidebar-border: oklch(0.3 0.01 260);
   --sidebar-ring: oklch(0.78 0.11 195);
+}
+
+@theme {
   --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, monospace;
 }
+
 
 
 .dark {
